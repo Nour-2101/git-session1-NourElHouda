@@ -36,3 +36,10 @@ git status
 ## Project Image
 
 ![Project banner](assets/project-banner.svg)
+
+## Learning Goals
+
+- Record changes with meaningful commits.
+- Stage selected files independently.
+- Create and merge feature branches.
+- Synchronize a local repository with GitHub.
