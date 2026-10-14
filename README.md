@@ -43,3 +43,6 @@ git status
 - Stage selected files independently.
 - Create and merge feature branches.
 - Synchronize a local repository with GitHub.
+## Progress
+
+The About feature has been merged into main.
